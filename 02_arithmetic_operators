@@ -1,0 +1,18 @@
+# this repo is created by Kıvanç Filizci. @kivancfk
+
+# python_basic
+
+# For details of the problem, please visit:
+# https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
+
+# solution:
+
+#!/bin/python3
+
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+
+print (a+b)
+print (a-b)
+print (a*b)
